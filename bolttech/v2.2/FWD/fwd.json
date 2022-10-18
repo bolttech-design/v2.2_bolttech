@@ -431,7 +431,7 @@
       }
     }
   },
-  "Brand A": {
+  "Brand B": {
     "fg": {
       "default": {
         "value": "{colors.white}",
@@ -462,7 +462,7 @@
     },
     "accent": {
       "default": {
-        "value": "{colors.yellow.500}",
+        "value": "{colors.orange.500}",
         "type": "color"
       }
     },
@@ -485,7 +485,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "global-tokens",
-      "Brand A"
+      "Brand B"
     ]
   }
 }
