@@ -443,7 +443,7 @@
       "type": "spacing"
     }
   },
-  "Brand B": {
+  "FWD": {
     "fg": {
       "default": {
         "value": "{colors.white}",
@@ -497,7 +497,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "global-tokens",
-      "Brand B"
+      "FWD"
     ]
   }
 }
