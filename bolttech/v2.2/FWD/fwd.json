@@ -429,6 +429,18 @@
         "value": "90%",
         "type": "opacity"
       }
+    },
+    "01": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "02": {
+      "value": "48px",
+      "type": "spacing"
+    },
+    "03": {
+      "value": "56px",
+      "type": "spacing"
     }
   },
   "Brand B": {
@@ -472,7 +484,7 @@
     },
     "padding": {
       "M": {
-        "value": "56px",
+        "value": "$02",
         "type": "spacing"
       },
       "S": {
