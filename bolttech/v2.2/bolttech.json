@@ -429,9 +429,21 @@
         "value": "90%",
         "type": "opacity"
       }
+    },
+    "01": {
+      "value": "36px",
+      "type": "spacing"
+    },
+    "02": {
+      "value": "52px",
+      "type": "spacing"
+    },
+    "03": {
+      "value": "68px",
+      "type": "spacing"
     }
   },
-  "Brand A": {
+  "Bolttech": {
     "fg": {
       "default": {
         "value": "{colors.white}",
@@ -472,11 +484,11 @@
     },
     "padding": {
       "M": {
-        "value": "56px",
+        "value": "{01}",
         "type": "spacing"
       },
       "S": {
-        "value": "16",
+        "value": "{02}",
         "type": "spacing"
       }
     }
@@ -485,7 +497,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "global-tokens",
-      "Brand A"
+      "Bolttech"
     ]
   }
 }
