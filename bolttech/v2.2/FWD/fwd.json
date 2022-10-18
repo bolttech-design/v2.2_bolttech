@@ -488,7 +488,7 @@
         "type": "spacing"
       },
       "S": {
-        "value": "16",
+        "value": "{01}",
         "type": "spacing"
       }
     }
