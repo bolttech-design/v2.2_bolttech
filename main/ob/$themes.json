@@ -1,12 +1,1 @@
-[
-  {
-    "id": "9489a046220f17bebcab91bb0a6fcdbb75fb3158",
-    "name": "one-bolttech",
-    "selectedTokenSets": {
-      "ob/reference": "source",
-      "ob/system": "source",
-      "ob/component": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  }
-]
+[]
